@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Supply Chain Logistics Optimization"
-—
+---
 # Supply Chain Logisitics Problem
 This problem is shared by Brunel University London in this [Link](https://brunel.figshare.com/articles/dataset/Supply_Chain_Logistics_Problem_Dataset/7558679)
 
