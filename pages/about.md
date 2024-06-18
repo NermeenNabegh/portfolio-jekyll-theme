@@ -9,7 +9,8 @@ permalink: /about
 This is a personal portfolio trial from existing Portfolio Jekyll Theme. Isn't it great?
 
 
-=
+|                          |                                                                                                                                 |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Experience**           | Supply Chain Management, Transformation and Applied Analytics                                                                   |
 | **Country of Residence** | United Kingdom                                                                                                                  |
 | **Education**            | Information Engineering and Technology BSc (GUC)                                                                                |
