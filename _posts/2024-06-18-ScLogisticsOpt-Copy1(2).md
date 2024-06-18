@@ -12,7 +12,7 @@ How do we plan our daily orders fulfilment?
 The question "how" suggests that this is a prescriptive analysis level problem which would be solved through an optimization model. To add some context this is about a supply chain operational level planning decision(s) which almost always requires some kind of optimization.
 Take the simplistic overview below (Figure 1). This diagram illustrates the virtual connection between the four "balloons" or aspects of a supply chain decision and very simply put it explains that to "deflate" one of the balloons, you need to "inflate" another. For example, if we need to minimize (deflate) the missed sales, we need to either increase our inventory, imporve our predicitability and forecasting, OR invest in our capacity for better responsiveness to any new demand requirement.
 
-![Local Image](The4BalloonsofSupplyChain.png)
+![Local Image](_posts/The4BalloonsofSupplyChain.png)
 <div align="center">(Figure 1)</div>
 
 Now let's review our physical flow (Figure 2) based on the problem scope. For the scope of this problem any order needs to be assigned to:
@@ -24,10 +24,10 @@ Now let's review our physical flow (Figure 2) based on the problem scope. For th
 Since the data format is available in .xlsx format. I have split it first into 7 csv files as required for this capstone project
 But you can find find a brief overview of the data in (Figure 3) here.
 
-![Local Image](ThePhysicalFlow.png)
+![Local Image](_posts/ThePhysicalFlow.png)
 <div align="center">(Figure 2)</div>
 
-![Local Image](Data.png)
+![Local Image](_posts/Data.png)
 <div align="center">(Figure 3)</div>
 
 ## Objective function:
